@@ -5,3 +5,13 @@ table,th,td{
 	width:100%;
 	table-layout:fixed;
 }
+
+.black{
+	background-color: black;
+	color:white;
+	text-align:center;
+}
+
+.text{
+	text-align:center;
+}
